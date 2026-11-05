@@ -22,7 +22,6 @@ Mem    [||||||              ]  32.2%    1,2Gi / 3,8Gi
 Swap   [|                   ]   4.8%    182Mi / 3,8Gi
 
     PID PSR USER     %CPU %MEM COMMAND
- 807001   2 bot      55.6  1.8 freebuff
  806965   3 bot       4.2  0.8 python3
 ```
 
