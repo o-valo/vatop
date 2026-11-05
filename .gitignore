@@ -1,0 +1,7 @@
+# Ausgabe des Laufs, wird bei jedem Aufruf neu geschrieben
+top.txt
+
+# Editor- und Betriebsreste
+*.swp
+*.bak
+*.log
