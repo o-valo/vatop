@@ -102,6 +102,8 @@ ssh host ./vatop.sh         # collect over ssh
 
 ## License
 
+Copyright (C) 2026 Olav Surawski (o-valo).
+
 AGPL-3.0-or-later — see [LICENSE](LICENSE).
 
 ## Powered by AI

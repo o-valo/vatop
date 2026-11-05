@@ -109,6 +109,8 @@ selbst an:
 
 ## Lizenz
 
+Copyright (C) 2026 Olav Surawski (o-valo).
+
 AGPL-3.0-or-later — siehe [LICENSE](LICENSE).
 
 ## Powered by AI
