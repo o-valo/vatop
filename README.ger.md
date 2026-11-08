@@ -124,3 +124,8 @@ Fehler ist entsprechend das Projekt verantwortlich.
 Die eingesetzten Modelle werden nicht namentlich genannt. Die 
 verwendeten Werkzeuge haben keinen Einfluss auf die Lizenz: Das 
 Projekt steht weiterhin unter AGPL-3.0-or-later (siehe Lizenz).
+
+##
+<p align="center">
+  <img src="foto.png" alt="Vatop in action" width="100%">
+</p>
