@@ -115,3 +115,8 @@ responsible for any errors that remain.
 
 The models used are not named. The tools used have no influence on the license:
 the project remains under AGPL-3.0-or-later (see license).
+
+##
+<p align="center">
+  <img src="foto.png" alt="Vatop in action" width="100%">
+</p>
